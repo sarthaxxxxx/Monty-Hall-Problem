@@ -6,3 +6,4 @@ The Monty Hall problem is a brain teaser, in the form of a probability puzzle, l
 ![Annotation 2019-12-20 140814](https://user-images.githubusercontent.com/25553462/71245027-ceed7d00-2339-11ea-94aa-5263a1348753.png)
 
 
+The above figure is the directed acyclic graph employed for the implementation. 
